@@ -45,7 +45,7 @@ Aquest repositori conté el projecte de creació de la nostra web, desenvolupat 
  ```bash
  npm run dev
 
-Obrir el navegador i anar a http://localhost:3000 per veure la web en acció.
+5. Obrir el navegador i anar a http://localhost:3000 per veure la web en acció.
  
 
    
