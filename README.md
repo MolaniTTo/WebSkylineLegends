@@ -1,7 +1,7 @@
 # Projecte Web amb TailwindCSS i Next.js
 
 Aquest repositori conté el projecte de creació de la nostra web, desenvolupat utilitzant les tecnologies de TailwindCSS i Next.js. A continuació es descriuen els continguts, les tecnologies utilitzades i les instruccions d'ús.
-Accés a la web per descarregar: https://drive.google.com/file/d/1uXwYvDL2CMPU576KWU0NUitcbB63m2Nt/view?usp=sharing
+Accés a la web per descarregar: [https://drive.google.com/file/d/1uXwYvDL2CMPU576KWU0NUitcbB63m2Nt/view?usp=sharing](https://drive.google.com/file/d/1Q3KT1GP6U4vcQwXIhFaW1G3I_Q0nhy5G/view?usp=drive_link)
 ## Contingut del Repositori
 
 - **Documentació**: Explicació detallada de la creació de la nostra web.
