@@ -32,3 +32,8 @@ Aquest repositori conté el projecte de creació de la nostra web, desenvolupat 
 1. Clonar el repositori:
    ```bash
    git clone https://github.com/el-teu-usuari/projecte-web-tailwindcss-nextjs.git
+2. Navegar a la carpeta del projecte
+   ```bash
+   cd projecte-web-tailwindcss-nextjs
+
+   
