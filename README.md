@@ -35,5 +35,15 @@ Aquest repositori conté el projecte de creació de la nostra web, desenvolupat 
 2. Navegar a la carpeta del projecte
    ```bash
    cd projecte-web-tailwindcss-nextjs
+3. Instalar les dependencies
+   ```bash
+   npm install
+   
+### Desplegament en Desenvolupament
+
+4. Executar el servidor de desenvolupament:
+ ```bash
+   npm run dev  
+ 
 
    
