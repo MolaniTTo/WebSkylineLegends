@@ -43,7 +43,9 @@ Aquest repositori conté el projecte de creació de la nostra web, desenvolupat 
 
 4. Executar el servidor de desenvolupament:
  ```bash
-   npm run dev  
+ npm run dev
+
+Obrir el navegador i anar a http://localhost:3000 per veure la web en acció.
  
 
    
