@@ -52,8 +52,8 @@ Aquest repositori conté el projecte de creació de la nostra web, desenvolupat 
 Hem organitzat el codi en components per millorar la reutilització i manteniment del codi. Cada component es troba a la carpeta `components` i segueix una estructura clara:
 
 - `components/Header.js`: Component per a la capçalera.
-- `components/Footer.js`: Component per al peu de pàgina.
-- `components/Button.js`: Component per als botons reutilitzables.
+- `components/Nav.js`: Component per al navegador.
+- `components/Slider.js`: Component al carrusel de naus espacials
 - i més...
 
 ### Funcionalitats Importants Utilitzades
@@ -63,9 +63,8 @@ Hem organitzat el codi en components per millorar la reutilització i mantenimen
   - **Customització**: Configurant `tailwind.config.js` per afegir temes personalitzats.
 
 - **Next.js**: Hem utilitzat diverses funcionalitats clau de Next.js:
-  - **Rendiment**: Pàgines pre-renderitzades per millorar la velocitat de càrrega.
-  - **Rutes dinàmiques**: Creació de pàgines basades en dades dinàmiques.
-  - **API Routes**: Desenvolupament d'APIs internes per gestionar dades.
+  - **Rendiment**: Pàgina web pre-renderitza per millorar la velocitat de càrrega.
+  - **Rutes dinàmiques**: Creació de components basats en dades dinàmiques.
 
 
  
